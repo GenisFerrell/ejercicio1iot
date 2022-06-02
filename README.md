@@ -4,3 +4,5 @@ Este repositorio es un ejercicio realizado como repaso de creación, clonación 
 Este texto representa la actualización realizado con la terminal y el programa con github
 
 Este es otro texto para poner a prueba la actualización de git a github.com
+
+Este texto es para la actualizacion de gitdesktop para modificarlo
